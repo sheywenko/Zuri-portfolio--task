@@ -237,6 +237,7 @@ nav {
   background-color: #d4d6f3;
   padding: 2.4rem;
   border-radius: 1rem;
+  border: 2px solid #989de2;
 }
 
 /* ------------------------------ */
@@ -249,6 +250,7 @@ nav {
   margin: 6.8rem auto;
   border-radius: 1rem;
   padding-top: 2.4rem;
+  border: 2px solid #989de2;
 }
 .reg-form {
   height: auto;
@@ -292,6 +294,7 @@ select {
   background-color: #d4d6f3;
   padding: 3.6rem 2.4rem;
   border-radius: 1rem;
+  border: 2px solid #989de2;
 }
 textarea {
   width: 100%;
